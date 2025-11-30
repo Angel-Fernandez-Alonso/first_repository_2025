@@ -1,0 +1,29 @@
+commit b76cfd6a9915c1347d60da03b86cb5afd8c2858a
+Author: Ángel <9506753@alumnos.ufv.es>
+Date:   Sun Nov 23 19:37:12 2025 +0100
+
+    Adding license file to the repo
+
+commit a3d036f2958af266f3ee6b7a029f85afe950d9ca
+Author: Ángel <9506753@alumnos.ufv.es>
+Date:   Sun Nov 23 19:21:58 2025 +0100
+
+    Adding src folder and all its files
+
+commit b4f78ad7c8861e3a95e23708b8e2e26485aa3f8d
+Author: Ángel <9506753@alumnos.ufv.es>
+Date:   Sun Nov 23 19:11:15 2025 +0100
+
+    Adding some changes to the Readme file
+
+commit 2fba99300410effe8a42d194130a235a342eb5d7
+Author: Ángel <9506753@alumnos.ufv.es>
+Date:   Sun Nov 23 19:03:35 2025 +0100
+
+    Adding gitignore to the repo
+
+commit 27d83caf0013782ea658f4966b96240de98ba11e
+Author: Ángel <9506753@alumnos.ufv.es>
+Date:   Sun Nov 23 18:57:39 2025 +0100
+
+    Adding my first file to the repo
